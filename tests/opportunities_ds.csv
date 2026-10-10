@@ -1,0 +1,136 @@
+country,therap_area,indication,patient_pop,unmet_need,trial_compet,op_feas,reg_env
+Argentina,Neurology,Multiple sclerosis,11895,71,5,58,70
+Argentina,Neurology,Parkinson's disease,17978,85,5,61,70
+Argentina,Neurology,Amyotrophic lateral sclerosis,4487,97,3,42,70
+Argentina,Rheumatology,Rheumatoid arthritis,27106,62,7,65,70
+Argentina,Rheumatology,Systemic lupus erythematosus,16166,84,4,42,70
+Argentina,Rheumatology,Axial spondyloarthritis,19005,68,4,55,70
+Argentina,Oncology,Non-small cell lung cancer,11179,88,7,57,70
+Argentina,Oncology,Breast cancer,22753,70,7,61,70
+Argentina,Oncology,Colorectal cancer,20339,68,7,53,70
+Argentina,Respiratory,Asthma,52124,43,7,62,70
+Argentina,Respiratory,Chronic obstructive pulmonary disease,39686,63,6,66,70
+Argentina,Respiratory,Idiopathic pulmonary fibrosis,5745,93,4,53,70
+Argentina,Dermatology,Atopic dermatitis,45043,61,6,74,70
+Argentina,Dermatology,Plaque psoriasis,38373,53,5,64,70
+Argentina,Dermatology,Acne vulgaris,54617,33,6,69,70
+Brazil,Neurology,Multiple sclerosis,24386,71,6,68,72
+Brazil,Neurology,Parkinson's disease,32890,74,7,64,72
+Brazil,Neurology,Amyotrophic lateral sclerosis,7339,99,3,53,72
+Brazil,Rheumatology,Rheumatoid arthritis,45022,51,7,66,72
+Brazil,Rheumatology,Systemic lupus erythematosus,27867,82,3,60,72
+Brazil,Rheumatology,Axial spondyloarthritis,34802,62,5,60,72
+Brazil,Oncology,Non-small cell lung cancer,20535,76,7,57,72
+Brazil,Oncology,Breast cancer,45184,61,7,59,72
+Brazil,Oncology,Colorectal cancer,32857,66,7,65,72
+Brazil,Respiratory,Asthma,96481,44,7,68,72
+Brazil,Respiratory,Chronic obstructive pulmonary disease,74141,69,6,63,72
+Brazil,Respiratory,Idiopathic pulmonary fibrosis,9872,89,3,58,72
+Brazil,Dermatology,Atopic dermatitis,75821,51,7,69,72
+Brazil,Dermatology,Plaque psoriasis,62632,55,7,69,72
+Brazil,Dermatology,Acne vulgaris,100000,39,7,66,72
+Chile,Neurology,Multiple sclerosis,6631,66,5,59,75
+Chile,Neurology,Parkinson's disease,10443,71,4,68,75
+Chile,Neurology,Amyotrophic lateral sclerosis,2450,97,2,56,75
+Chile,Rheumatology,Rheumatoid arthritis,13920,59,5,61,75
+Chile,Rheumatology,Systemic lupus erythematosus,9137,88,4,63,75
+Chile,Rheumatology,Axial spondyloarthritis,9278,65,3,68,75
+Chile,Oncology,Non-small cell lung cancer,6641,88,7,53,75
+Chile,Oncology,Breast cancer,14848,61,7,64,75
+Chile,Oncology,Colorectal cancer,10288,70,5,65,75
+Chile,Respiratory,Asthma,27785,44,7,70,75
+Chile,Respiratory,Chronic obstructive pulmonary disease,16951,60,4,68,75
+Chile,Respiratory,Idiopathic pulmonary fibrosis,2722,84,2,53,75
+Chile,Dermatology,Atopic dermatitis,23436,58,6,70,75
+Chile,Dermatology,Plaque psoriasis,16456,54,6,67,75
+Chile,Dermatology,Acne vulgaris,31715,31,6,69,75
+Colombia,Neurology,Multiple sclerosis,14497,70,4,58,65
+Colombia,Neurology,Parkinson's disease,15853,80,5,62,65
+Colombia,Neurology,Amyotrophic lateral sclerosis,3732,86,2,57,65
+Colombia,Rheumatology,Rheumatoid arthritis,25471,54,4,64,65
+Colombia,Rheumatology,Systemic lupus erythematosus,16933,81,4,53,65
+Colombia,Rheumatology,Axial spondyloarthritis,15789,71,3,59,65
+Colombia,Oncology,Non-small cell lung cancer,10199,86,5,54,65
+Colombia,Oncology,Breast cancer,25778,68,7,55,65
+Colombia,Oncology,Colorectal cancer,15188,65,6,55,65
+Colombia,Respiratory,Asthma,40388,41,6,64,65
+Colombia,Respiratory,Chronic obstructive pulmonary disease,33814,67,6,57,65
+Colombia,Respiratory,Idiopathic pulmonary fibrosis,4792,90,2,48,65
+Colombia,Dermatology,Atopic dermatitis,42600,57,5,59,65
+Colombia,Dermatology,Plaque psoriasis,30580,54,5,63,65
+Colombia,Dermatology,Acne vulgaris,42900,36,6,63,65
+Ecuador,Neurology,Multiple sclerosis,6508,71,3,52,62
+Ecuador,Neurology,Parkinson's disease,8346,78,2,55,62
+Ecuador,Neurology,Amyotrophic lateral sclerosis,2204,98,1,45,62
+Ecuador,Rheumatology,Rheumatoid arthritis,11872,54,4,58,62
+Ecuador,Rheumatology,Systemic lupus erythematosus,7118,76,2,51,62
+Ecuador,Rheumatology,Axial spondyloarthritis,9129,69,1,49,62
+Ecuador,Oncology,Non-small cell lung cancer,5305,90,4,53,62
+Ecuador,Oncology,Breast cancer,11653,61,4,49,62
+Ecuador,Oncology,Colorectal cancer,7570,63,4,43,62
+Ecuador,Respiratory,Asthma,23468,45,4,53,62
+Ecuador,Respiratory,Chronic obstructive pulmonary disease,16052,69,3,49,62
+Ecuador,Respiratory,Idiopathic pulmonary fibrosis,2547,97,2,47,62
+Ecuador,Dermatology,Atopic dermatitis,17722,57,3,56,62
+Ecuador,Dermatology,Plaque psoriasis,15536,54,3,55,62
+Ecuador,Dermatology,Acne vulgaris,23387,31,3,61,62
+Mexico,Neurology,Multiple sclerosis,17948,70,5,58,68
+Mexico,Neurology,Parkinson's disease,29599,74,7,59,68
+Mexico,Neurology,Amyotrophic lateral sclerosis,6524,91,2,54,68
+Mexico,Rheumatology,Rheumatoid arthritis,38035,68,5,63,68
+Mexico,Rheumatology,Systemic lupus erythematosus,26786,92,3,47,68
+Mexico,Rheumatology,Axial spondyloarthritis,27013,70,3,59,68
+Mexico,Oncology,Non-small cell lung cancer,16041,81,7,44,68
+Mexico,Oncology,Breast cancer,36774,68,7,57,68
+Mexico,Oncology,Colorectal cancer,26612,73,7,56,68
+Mexico,Respiratory,Asthma,74714,47,7,67,68
+Mexico,Respiratory,Chronic obstructive pulmonary disease,53610,70,7,64,68
+Mexico,Respiratory,Idiopathic pulmonary fibrosis,7737,93,3,54,68
+Mexico,Dermatology,Atopic dermatitis,70977,58,6,61,68
+Mexico,Dermatology,Plaque psoriasis,44004,58,7,64,68
+Mexico,Dermatology,Acne vulgaris,64558,36,6,63,68
+Paraguay,Neurology,Multiple sclerosis,4233,63,2,47,58
+Paraguay,Neurology,Parkinson's disease,6321,75,2,52,58
+Paraguay,Neurology,Amyotrophic lateral sclerosis,1161,93,1,40,58
+Paraguay,Rheumatology,Rheumatoid arthritis,6338,55,3,54,58
+Paraguay,Rheumatology,Systemic lupus erythematosus,4388,92,1,48,58
+Paraguay,Rheumatology,Axial spondyloarthritis,5130,72,2,46,58
+Paraguay,Oncology,Non-small cell lung cancer,2954,90,3,47,58
+Paraguay,Oncology,Breast cancer,6149,66,2,50,58
+Paraguay,Oncology,Colorectal cancer,5493,75,3,46,58
+Paraguay,Respiratory,Asthma,14066,45,2,50,58
+Paraguay,Respiratory,Chronic obstructive pulmonary disease,9245,66,2,46,58
+Paraguay,Respiratory,Idiopathic pulmonary fibrosis,1584,86,1,41,58
+Paraguay,Dermatology,Atopic dermatitis,13971,57,3,55,58
+Paraguay,Dermatology,Plaque psoriasis,9124,55,2,48,58
+Paraguay,Dermatology,Acne vulgaris,14595,30,3,57,58
+Uruguay,Neurology,Multiple sclerosis,2472,70,3,55,74
+Uruguay,Neurology,Parkinson's disease,3672,75,3,60,74
+Uruguay,Neurology,Amyotrophic lateral sclerosis,1000,100,1,55,74
+Uruguay,Rheumatology,Rheumatoid arthritis,5066,64,4,74,74
+Uruguay,Rheumatology,Systemic lupus erythematosus,2906,85,2,52,74
+Uruguay,Rheumatology,Axial spondyloarthritis,4017,66,2,69,74
+Uruguay,Oncology,Non-small cell lung cancer,1972,85,3,57,74
+Uruguay,Oncology,Breast cancer,5100,64,4,62,74
+Uruguay,Oncology,Colorectal cancer,3191,66,3,59,74
+Uruguay,Respiratory,Asthma,9423,44,4,68,74
+Uruguay,Respiratory,Chronic obstructive pulmonary disease,7179,62,4,61,74
+Uruguay,Respiratory,Idiopathic pulmonary fibrosis,1000,85,1,62,74
+Uruguay,Dermatology,Atopic dermatitis,8114,57,3,64,74
+Uruguay,Dermatology,Plaque psoriasis,6582,57,3,70,74
+Uruguay,Dermatology,Acne vulgaris,9741,28,4,65,74
+Venezuela,Neurology,Multiple sclerosis,8646,70,2,39,50
+Venezuela,Neurology,Parkinson's disease,13980,79,2,36,50
+Venezuela,Neurology,Amyotrophic lateral sclerosis,2969,99,1,36,50
+Venezuela,Rheumatology,Rheumatoid arthritis,19452,64,4,49,50
+Venezuela,Rheumatology,Systemic lupus erythematosus,11922,85,2,37,50
+Venezuela,Rheumatology,Axial spondyloarthritis,12090,62,2,41,50
+Venezuela,Oncology,Non-small cell lung cancer,6966,81,3,31,50
+Venezuela,Oncology,Breast cancer,18694,66,3,38,50
+Venezuela,Oncology,Colorectal cancer,13415,72,3,32,50
+Venezuela,Respiratory,Asthma,28614,50,4,41,50
+Venezuela,Respiratory,Chronic obstructive pulmonary disease,29758,69,3,42,50
+Venezuela,Respiratory,Idiopathic pulmonary fibrosis,4087,89,1,40,50
+Venezuela,Dermatology,Atopic dermatitis,30172,50,3,56,50
+Venezuela,Dermatology,Plaque psoriasis,21472,54,4,42,50
+Venezuela,Dermatology,Acne vulgaris,42675,36,3,53,50
