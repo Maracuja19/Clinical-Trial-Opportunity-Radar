@@ -1,0 +1,74 @@
+
+/* Selected filter tags */
+[data-testid="stSidebar"] [data-tag] {
+    background-color: rgb(25, 89, 184) !important;
+}
+
+[data-testid="stSidebar"] [data-tag] span {
+    color: white !important;
+}
+
+[data-testid="stSidebar"] [data-tag] button {
+    color: white !important;
+}
+
+
+
+
+
+/* Global font size */
+[data-testid="stMain"] p,
+[data-testid="stMain"] label,
+[data-testid="stMain"] li,
+[data-testid="stMain"] .stMarkdown,
+[data-testid="stMain"] [data-testid="stCaptionContainer"] {
+    font-size: 25px !important;
+}
+
+/* Keep headings clearly hierarchical */
+[data-testid="stMain"] h1 {
+    font-size: 60px !important;
+}
+
+[data-testid="stMain"] h2 {
+    font-size: 32px !important;
+}
+
+[data-testid="stMain"] h3 {
+    font-size: 30px !important;
+}
+/* Sidebar text */
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] .stMarkdown,
+[data-testid="stSidebar"] [data-testid="stWidgetLabel"] {
+    font-size: 25px !important;
+}
+
+
+[data-testid="stCaptionContainer"] p {
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+}
+
+
+
+
+
+/* Sidebar dropdown options*/
+
+
+
+/* Prevent remove buttons and icons from shrinking */
+[data-testid="stSidebar"] [data-baseweb="tag"] button,
+[data-testid="stSidebar"] [data-baseweb="tag"] svg {
+    flex-shrink: 0;
+}
+
+/* Top Opportunities chart — axis labels and tick labels */
+[data-testid="stMain"] .js-plotly-plot .xtick text,
+[data-testid="stMain"] .js-plotly-plot .ytick text,
+[data-testid="stMain"] .js-plotly-plot .legend text {
+    font-size: 16px !important;
+}
+
